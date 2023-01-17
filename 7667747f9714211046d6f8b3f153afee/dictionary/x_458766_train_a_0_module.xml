@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3ac769009760211046d6f8b3f153af31" label="Module" max_length="40" name="x_458766_train_a_0_module" type="collection">
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

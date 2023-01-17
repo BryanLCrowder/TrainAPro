@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9388e5409760211046d6f8b3f153af6d" label="Story" max_length="40" name="x_458766_train_a_0_story" type="collection">
+        <element label="Acceptance Criteria" max_length="4000" name="acceptance_criteria" type="html"/>
+        <element label="Module" max_length="32" name="module" reference="x_458766_train_a_0_module" type="reference"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Points" max_length="40" name="points" type="integer"/>
+        <element label="Short Description" max_length="40" name="short_description" type="string"/>
+        <element choice="3" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Draft" sequence="0" value="draft"/>
+                <element inactive_on_update="false" label="Ready" sequence="1" value="ready"/>
+                <element inactive_on_update="false" label="In Use" sequence="2" value="in_use"/>
+                <element inactive_on_update="false" label="Needs Review" sequence="3" value="needs_review"/>
+                <element inactive_on_update="false" label="Retired" sequence="4" value="retired"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="module"/>
+        </index>
+    </element>
+</database>

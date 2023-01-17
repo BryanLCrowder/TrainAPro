@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Class" section_id="5395658c9720211046d6f8b3f153af4c" sys_domain="global" table="x_458766_train_a_0_class" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-17 16:11:55</sys_created_on>
+            <sys_id>db2821409760211046d6f8b3f153af8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Class" display_value="Class" name="x_458766_train_a_0_class" sys_domain="global" view="Default view">5395658c9720211046d6f8b3f153af4c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-17 16:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-17 16:11:55</sys_created_on>
+            <sys_id>532821409760211046d6f8b3f153af8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Class" display_value="Class" name="x_458766_train_a_0_class" sys_domain="global" view="Default view">5395658c9720211046d6f8b3f153af4c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-17 16:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>trainer</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-17 16:11:55</sys_created_on>
+            <sys_id>d32821409760211046d6f8b3f153af8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Class" display_value="Class" name="x_458766_train_a_0_class" sys_domain="global" view="Default view">5395658c9720211046d6f8b3f153af4c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-17 16:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-17 16:11:55</sys_created_on>
+            <sys_id>572821409760211046d6f8b3f153af8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Class" display_value="Class" name="x_458766_train_a_0_class" sys_domain="global" view="Default view">5395658c9720211046d6f8b3f153af4c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-17 16:11:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-17 16:11:55</sys_created_on>
+            <sys_id>1b2821409760211046d6f8b3f153afe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Class" display_value="Class" name="x_458766_train_a_0_class" sys_domain="global" view="Default view">5395658c9720211046d6f8b3f153af4c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-17 16:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-17 16:11:55</sys_created_on>
+            <sys_id>9b2821409760211046d6f8b3f153afe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Class" display_value="Class" name="x_458766_train_a_0_class" sys_domain="global" view="Default view">5395658c9720211046d6f8b3f153af4c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-17 16:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>modules</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-17 16:11:55</sys_created_on>
+            <sys_id>1f2821409760211046d6f8b3f153afe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Class" display_value="Class" name="x_458766_train_a_0_class" sys_domain="global" view="Default view">5395658c9720211046d6f8b3f153af4c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-17 16:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Class</caption>
+            <header>false</header>
+            <name>x_458766_train_a_0_class</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-17 16:00:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5395658c9720211046d6f8b3f153af4c</sys_id>
+            <sys_name>x_458766_train_a_0_class</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Train-a-Pro" source="x_458766_train_a_0">7667747f9714211046d6f8b3f153afee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Train-a-Pro">7667747f9714211046d6f8b3f153afee</sys_scope>
+            <sys_update_name>sys_ui_section_5395658c9720211046d6f8b3f153af4c</sys_update_name>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

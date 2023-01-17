@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9c95618c9720211046d6f8b3f153af88" label="Class" max_length="40" name="x_458766_train_a_0_class" type="collection">
+        <element label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Modules" max_length="40" name="modules" reference="x_458766_train_a_0_module" type="glide_list"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Progress" max_length="38" name="progress" type="percent_complete"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element label="Trainer" max_length="32" name="trainer" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="trainer"/>
+        </index>
+    </element>
+</database>
